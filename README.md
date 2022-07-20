@@ -15,13 +15,13 @@ The following **required** functionality is completed:
 
 Codes written:
 colors.xml, strings.xml, and themes.xml:
-Codepath_Prework_Android/app/src/main/res/values at master · slougue1/Codepath_Prework_Android (github.com)
+Codepath_Prework_Android/app/src/main/res/values
 
 activity_main.xml:
-Codepath_Prework_Android/app/src/main/res/layout at master · slougue1/Codepath_Prework_Android (github.com)
+Codepath_Prework_Android/app/src/main/res/layout
 
 MainActivity.kt:
-Codepath_Prework_Android/app/src/main/java/codepath/com at master · slougue1/Codepath_Prework_Android (github.com)
+Codepath_Prework_Android/app/src/main/java/codepath/com
 
 The following **optional** features are implemented:
 
@@ -31,7 +31,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-file:///C:/Users/Owner/OneDrive/Documents/Codepath_gif.gif
+![Codepath_gif1](https://user-images.githubusercontent.com/70714610/179925958-645d1431-7b77-4a0e-8e3d-f6bfb3826746.gif)
+![Codepath_gif12](https://user-images.githubusercontent.com/70714610/179926085-fdb760f5-a144-4f07-8944-18d134cc8933.gif)
+
 
 
 ## Notes
