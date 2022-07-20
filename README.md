@@ -13,6 +13,16 @@ The following **required** functionality is completed:
 * [ ] Button displayed on screen
 * [ ] Toast with message appears when button is pressed 
 
+Codes written:
+colors.xml, strings.xml, and themes.xml:
+Codepath_Prework_Android/app/src/main/res/values at master · slougue1/Codepath_Prework_Android (github.com)
+
+activity_main.xml:
+Codepath_Prework_Android/app/src/main/res/layout at master · slougue1/Codepath_Prework_Android (github.com)
+
+MainActivity.kt:
+Codepath_Prework_Android/app/src/main/java/codepath/com at master · slougue1/Codepath_Prework_Android (github.com)
+
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
